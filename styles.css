@@ -1,26 +1,44 @@
 .teksti1 {
+	text-align: center;
+	color: blue;
+	font-size: 25px;
 	position: relative;
 	left: 0px;
 	top: 0px;
 	width: 200px;
 	height: 100px;
 	background-color: red;
+	border-width: 10px;
+	border-style: solid; 
+	border-color: green;
 }
 
 .teksti2 {
+	text-align: center;
+	color: blue;
+	font-size: 25px;
 	position: relative;
 	left: 250px;
-	top: -115px;
+	top: -120px;
 	width: 200px;
 	height: 100px;
 	background-color: yellow;
+	border-width: 10px;
+	border-style: solid; 
+	border-color: red;
 }
 
 .teksti3 {
+	text-align: center;
+	color: blue;
+	font-size: 25px;
 	position: relative;
 	left: 500px;
-	top: -230px;
+	top: -240px;
 	width: 200px;
 	height: 100px;
 	background-color: green;
+	border-width: 10px;
+	border-style: solid; 
+	border-color: yellow;
 }
