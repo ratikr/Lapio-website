@@ -1,3 +1,18 @@
 p {
-	background-color:red;
+	color:brown;
+}
+
+.pääotsikko {
+  color: blue;
+}
+,alaotsikko {
+  color: brown;
+}
+
+.lista {
+  color: purple;
+}
+
+* {
+  color: red;
 }
