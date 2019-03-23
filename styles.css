@@ -1,0 +1,26 @@
+.teksti1 {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	width: 200px;
+	height: 100px;
+	background-color: red;
+}
+
+.teksti2 {
+	position: relative;
+	left: 250px;
+	top: -115px;
+	width: 200px;
+	height: 100px;
+	background-color: yellow;
+}
+
+.teksti3 {
+	position: relative;
+	left: 500px;
+	top: -230px;
+	width: 200px;
+	height: 100px;
+	background-color: green;
+}
