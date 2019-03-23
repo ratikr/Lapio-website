@@ -1,18 +1,20 @@
-p {
-	color:brown;
+.kappale {
+color:brown;
 }
+
 
 .pääotsikko {
   color: blue;
 }
-,alaotsikko {
+
+.alaotsikko {
   color: brown;
 }
 
+
 .lista {
-  color: purple;
+  color: pink;
 }
 
-* {
-  color: red;
-}
+
+#punainen {color: red}
